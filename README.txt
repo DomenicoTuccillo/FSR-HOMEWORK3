@@ -1,0 +1,1 @@
+For both point 4 and 5 it is sufficient to run the main files, the simulink files are executed whitin them, also the plots will be displayed
